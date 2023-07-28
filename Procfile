@@ -1,0 +1,1 @@
+web: cd ./place && go build cmd/place/place.go
